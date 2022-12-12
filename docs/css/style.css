@@ -56,13 +56,13 @@ table {
   min-height: 100vh;
   line-height: 1.7em;
   font-family: sans-serif;
-  background-color: #dfa6e1; }
+  background: linear-gradient(#aa80e6, #f7f4fb); }
 
 .mainContent {
   flex: 1;
   margin: 0 auto; }
   .mainContent a {
-    color: #ca34c3; }
+    color: #b239f6; }
     .mainContent a:hover {
       color: #2b022b; }
 
@@ -87,7 +87,7 @@ h1 {
   cursor: pointer;
   color: #413f1f;
   border: 1px solid #413f1f;
-  background-color: #d055db;
+  background-color: #e9ddb3;
   border-radius: 5px;
   text-align: center; }
   .button-play.cat-c {
@@ -101,7 +101,7 @@ h1 {
     border-color: #888; }
 
 .mainFooter {
-  background-color: #b34aad;
+  background-color: #aa80e6;
   color: #000; }
   .mainFooter a {
     color: #000; }
