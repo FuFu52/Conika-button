@@ -202,6 +202,21 @@ h1 {
     line-height: 40px;
     vertical-align: middle;
     width: 285px; }
+  .ad_wrapper .ad-item_ a {
+    display: flex;
+    width: 500px;
+    margin: 15px auto 0; }
+  .ad_wrapper .ad-item_ img {
+      display: inline-block;
+      width: 200px;
+      height: 48; }
+  .ad_wrapper .ad-item_ span {
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 15px;
+    line-height: 50px;
+    vertical-align: middle;
+    width: 285px; }
 
 @media screen and (min-width: 1300px) {
   .multiButtonWrapper .button-play {
